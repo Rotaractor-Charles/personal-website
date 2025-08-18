@@ -1,30 +1,41 @@
-Verti by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌸 Faith Jebungei – Personal Website
 
+This is the official personal website of **Faith Jebungei**.  
+It highlights her **life journey, career, family, vision, and passions**, offering visitors a chance to know her story in depth.
 
-A super simple + modern responsive website template. Took a slightly different direction
-on the mobile version's slide out nav (floating button versus a full on titlebar).
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## ✨ Features
+- 🏡 **Homepage** – Introduction and background story.  
+- 👩‍💼 **Career Journey** – Professional growth, education, and teaching career.  
+- 💍 **Wife & Partner** – A personal look at her role as a supportive partner.  
+- 🤱 **Motherhood** – Insights into her life as a mother of two.  
+- 🌱 **More About Me** – Subsections including:  
+  - Life’s Challenges  
+  - Vision (Looking Ahead)  
+  - Reflections  
+  - Gallery  
+- ✍️ **Blogs** – Articles, experiences, and personal reflections.  
+- 📬 **Contact Form** – Simple form for visitors to send messages.  
+- 🌐 **Social Media Links** – Connect via Twitter, Facebook, Instagram, Pinterest, and more.  
 
-(* = Not included)
+---
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## 🖼️ Sections at a Glance
+- **Banner:** Faith’s early life, education, and family background.  
+- **Highlights:** Three pillars of her journey: *Beginnings, Passion, Vision.*  
+- **Gallery:** A visual glimpse into her life.  
+- **Footer:** Contact details and credits.  
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
+## 🛠️ Technologies Used
+- **HTML5** – Structure  
+- **CSS3** – Styling (`assets/css/main.css`)  
+- **JavaScript/jQuery** – Interactivity (`assets/js/`)  
+- **Font Awesome** – Social media icons  
+- **Responsive Design** – Mobile-friendly layout  
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📂 Project Structure
